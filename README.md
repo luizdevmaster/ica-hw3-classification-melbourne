@@ -54,7 +54,8 @@ Instalação:
 pip install numpy pandas scikit-learn matplotlib seaborn mlxtend
 
 ▶️ Como executar o código (reprodutibilidade total)
-###1. Criar ambiente virtual (recomendado)
+
+1. Criar ambiente virtual (recomendado)
 python -m venv .venv
 # Linux / macOS
 source .venv/bin/activate
