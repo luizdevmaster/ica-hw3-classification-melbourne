@@ -31,7 +31,7 @@ O estudo utiliza variáveis **operacionais e meteorológicas diárias** no perí
 ---
 
 
-#⚙️ Dependências
+#Dependências
 
 Principais dependências em Python:
 
@@ -53,7 +53,7 @@ Instalação:
 
 pip install numpy pandas scikit-learn matplotlib seaborn mlxtend
 
-##▶️ Como executar o código (reprodutibilidade total)
+▶️ Como executar o código (reprodutibilidade total)
 ###1. Criar ambiente virtual (recomendado)
 python -m venv .venv
 # Linux / macOS
@@ -61,10 +61,10 @@ source .venv/bin/activate
 # Windows
 .\.venv\Scripts\activate
 
-###2. Instalar dependências
+2. Instalar dependências
 pip install numpy pandas scikit-learn matplotlib seaborn mlxtend
 
-###3. Preparar os dados de classificação
+3. Preparar os dados de classificação
 python code/hw3_prepare_classification.py
 
 
