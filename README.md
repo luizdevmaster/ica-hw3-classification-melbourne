@@ -31,7 +31,7 @@ O estudo utiliza variáveis **operacionais e meteorológicas diárias** no perí
 ---
 
 
-##⚙️ Dependências
+#⚙️ Dependências
 
 Principais dependências em Python:
 
