@@ -10,8 +10,8 @@ O estudo utiliza variáveis **operacionais e meteorológicas diárias** no perí
 ---
 
 ## 📁 Estrutura do repositório
-
-```bash
+```shell
+  $ tree
 .
 ├─ report/
 │  └─ hw3_classification_high_energy_consumption.pdf   # relatório final (IEEE)
@@ -27,6 +27,9 @@ O estudo utiliza variáveis **operacionais e meteorológicas diárias** no perí
 │  ├─ test_classification.csv             # teste (339 obs) + HighEnergy
 │  └─ hw3_classification_summary.csv      # TN/FP/FN/TP (tabelas LaTeX)
 └─ README.md
+```
+---
+
 
 ⚙️ Dependências
 
